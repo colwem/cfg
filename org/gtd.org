@@ -1,0 +1,4 @@
+* Tasks
+** DONE put glass door down stairs
+   CLOSED: [2012-05-30 Wed 13:35]
+   - State "DONE"       from "TODO"       [2012-05-30 Wed 13:35]

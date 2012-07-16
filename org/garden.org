@@ -1,0 +1,70 @@
+* General
+* Mulching beds 
+** front walkway sides
+*** DONE weeding
+    CLOSED: [2012-05-18 Fri 23:05] SCHEDULED: <2012-05-18 Fri>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 23:05]
+*** DONE edging
+    CLOSED: [2012-07-07 Sat 08:40]
+    - State "DONE"       from "TODO"       [2012-07-07 Sat 08:40]
+*** CANCELED weedmat
+    CLOSED: [2012-07-07 Sat 08:41]
+    - State "CANCELED"   from "TODO"       [2012-07-07 Sat 08:41] \\
+      not needed
+*** TODO soaker hose
+*** DONE mulching
+    CLOSED: [2012-07-07 Sat 08:41]
+    - State "DONE"       from "TODO"       [2012-07-07 Sat 08:41]
+** house front
+*** TODO weeding
+*** TODO edging
+*** TODO weedmat
+*** TODO soaker hose
+*** TODO mulching
+** blueberries
+*** TODO mulching
+** pool side bed
+*** DONE weeding
+    CLOSED: [2012-05-18 Fri 23:05] SCHEDULED: <2012-05-19 Sat>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 23:05]
+    CLOCK: [2012-05-18 Fri 12:51]--[2012-05-18 Fri 23:05] => 10:14
+    CLOCK: [2012-05-17 Thu 14:54]--[2012-05-17 Thu 15:01] =>  0:07
+*** TODO edging
+*** TODO weedmat
+*** TODO mulching
+** DONE oak tree bed
+   CLOSED: [2012-05-23 Wed 17:27]
+   - State "DONE"       from "TODO"       [2012-05-23 Wed 17:27]
+*** DONE weeding
+    CLOSED: [2012-05-19 Sat 17:36] SCHEDULED: <2012-05-19 Sat>
+    CLOCK: [2012-05-19 Sat 11:37]--[2012-05-19 Sat 17:11] =>  6:01
+    - State "DONE"       from "TODO"       [2012-05-19 Sat 17:36]
+*** DONE edging
+    CLOSED: [2012-05-19 Sat 17:36] SCHEDULED: <2012-05-19 Sat>
+    - State "DONE"       from "TODO"       [2012-05-19 Sat 17:36]
+
+* Hose watering system
+** DONE buy connectors
+   CLOSED: [2012-05-28 Mon 10:05]
+   - State "DONE"       from "TODO"       [2012-05-28 Mon 10:05]
+*** DONE research price and options on the internet
+    CLOSED: [2012-05-18 Fri 01:21] SCHEDULED: <2012-05-16 Wed>
+    - State "DONE"       from "TODO"       [2012-05-18 Fri 01:21]
+
+** TODO cut the hose
+** TODO put on connectors
+
+* lawn
+** DONE mow lawn
+   CLOSED: [2012-05-12 Sat 14:05] SCHEDULED: <2012-05-12 Sat>
+   - State "DONE"       from "TODO"       [2012-05-12 Sat 14:05]
+   CLOCK: [2012-05-12 Sat 13:32]--[2012-05-12 Sat 14:05] =>  0:33
+   CLOCK: [2012-05-12 Sat 12:07]--[2012-05-12 Sat 13:31] =>  1:24
+** TODO weed lawn
+** TODO aerate lawn
+** DONE mow lawn
+   CLOSED: [2012-05-18 Fri 23:06] SCHEDULED: <2012-05-17 Thu>
+   - State "DONE"       from "TODO"       [2012-05-18 Fri 23:06]
+   CLOCK: [2012-05-18 Fri 11:53]--[2012-05-18 Fri 12:51] =>  0:58
+   CLOCK: [2012-05-18 Fri 11:35]--[2012-05-18 Fri 11:49] =>  0:14
+   CLOCK: [2012-05-17 Thu 16:13]--[2012-05-17 Thu 17:08] =>  0:55

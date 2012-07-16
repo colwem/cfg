@@ -1,0 +1,25 @@
+* Clothes'
+
+** DONE underwear
+   CLOSED: [2012-06-04 Mon 11:50] SCHEDULED: <2012-06-02 Sat>
+   - State "DONE"       from "TODO"       [2012-06-04 Mon 11:50]
+   CLOCK: [2012-06-04 Mon 11:11]--[2012-06-04 Mon 11:50] =>  0:39
+*** DONE research
+    CLOSED: [2012-06-04 Mon 11:50] SCHEDULED: <2012-06-02 Sat>
+    - State "DONE"       from "TODO"       [2012-06-04 Mon 11:50]
+    6 pairs no tag
+** DONE T-shirts
+   CLOSED: [2012-05-30 Wed 18:38] SCHEDULED: <2012-05-30 Wed>
+   - State "DONE"       from "TODO"       [2012-05-30 Wed 18:38]
+   goodwill
+   kohls
+
+** DONE shorts
+   CLOSED: [2012-05-30 Wed 18:38] SCHEDULED: <2012-05-30 Wed>
+   - State "DONE"       from "TODO"       [2012-05-30 Wed 18:38]
+   goodwill
+   kohls
+
+-* DONE anti chafing cream
+  CLOSED: [2012-05-30 Wed 18:38] SCHEDULED: <2012-05-30 Wed>
+  - State "DONE"       from "TODO"       [2012-05-30 Wed 18:38]

@@ -1,0 +1,61 @@
+* Machine learning
+
+** review questions
+*** DONE IV
+    CLOSED: [2012-05-12 Sat 17:26]
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 17:26]
+    CLOCK: [2012-05-12 Sat 16:15]--[2012-05-12 Sat 16:18] =>  0:03
+*** DONE V
+    CLOSED: [2012-05-12 Sat 17:56] 
+    - State "DONE"       from "TODO"       [2012-05-12 Sat 17:56]
+    CLOCK: [2012-05-12 Sat 17:26]--[2012-05-12 Sat 17:56] =>  0:30
+*** TODO VI
+    CLOCK: [2012-05-16 Wed 17:02]--[2012-05-16 Wed 18:20] =>  1:18
+*** TODO VII
+
+*** TODO VII
+    
+** Programming Exercises
+*** DONE IV
+    CLOSED: [2012-05-13 Sun 15:28]
+    - State "DONE"       from "TODO"       [2012-05-13 Sun 15:28]
+*** TODO VII
+
+*** TODO VII
+
+
+* Computer Vision
+
+** Quiz
+
+** Assignments
+*** TODO Assignment 1 
+    CLOCK: [2012-05-16 Wed 16:00]--[2012-05-16 Wed 16:56] =>  0:56
+    CLOCK: [2012-05-15 Tue 15:26]--[2012-05-15 Tue 16:00] =>  0:34
+    CLOCK: [2012-05-15 Tue 11:03]--[2012-05-15 Tue 13:00] =>  1:57
+
+* Compilers
+** Quizzes
+
+*** DONE Quiz #1
+    DEADLINE: <2012-05-14 Mon> CLOSED: [2012-05-15 Tue 10:25]
+    - State "DONE"       from "TODO"       [2012-05-15 Tue 10:25]
+*** TODO Quiz #2
+
+
+** Programming Assignments
+*** TODO PA1
+    CLOCK: [2012-05-16 Wed 07:32]--[2012-05-16 Wed 09:01] =>  1:29
+    CLOCK: [2012-05-15 Tue 16:01]--[2012-05-15 Tue 19:24] =>  3:23
+    lexical analizer
+**** DONE Figure out line numbers
+     CLOSED: [2012-05-15 Tue 22:59]
+     - State "DONE"       from "TODO"       [2012-05-15 Tue 22:59]
+
+*** TODO PA2
+
+
+*** TODO Deduce It 2
+
+
+
