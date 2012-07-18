@@ -1,0 +1,10 @@
+loaddefs.el*
+backups/*
+auto-save-list
+*elc
+.svn
+.DS_Store
+
+
+*#
+.#*
