@@ -1,0 +1,11 @@
+
+* Bingo
+** make board
+** calculate odds
+*** turns required to get bingo
+*** turns required for x boards in play
+*** turns for arbitrary board
+** odds methods to try
+*** brute calc
+*** derived
+**** 

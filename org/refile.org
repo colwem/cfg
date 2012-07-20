@@ -7,3 +7,7 @@
   CLOCK: [2012-07-13 Fri 09:21]--[2012-07-13 Fri 09:21] =>  0:00
 * TODO look up ruby toys or learning examples
   CLOCK: [2012-07-15 Sun 15:12]--[2012-07-15 Sun 15:12] =>  0:00
+* TODO learn about Node.js
+  CLOCK: [2012-07-19 Thu 13:48]--[2012-07-19 Thu 13:48] =>  0:00
+* TODO create chrome plugin to organize tabs into problems, when a problem is solved the whole problem is archived and the solution is marked.  colors tell you when you opened it and whether you've visited the tab some other mark visually tells you what tabs belong to what group. groups can be joined or split so that solving does or does not archive the group some pages or tasks are exempted from problem structure
+  CLOCK: [2012-07-19 Thu 14:50]--[2012-07-19 Thu 14:53] =>  0:03

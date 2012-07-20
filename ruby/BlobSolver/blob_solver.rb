@@ -1,19 +1,18 @@
-module BlobSolver
+class BlobSolver
 
-  class BlobFieldMaker
-    attr_reader :arr
-    
-    @arr
+  def initialize grid
+    @grid = grid
+  end
 
-    def new size
-      arr = []
-      @arr = (0..size).each do
-        (0..size).map { rand(1)}
-      end
-    end
-    
-                          
-    def print
-    end
+#  counts blobs that's it
+
+  def count
+    @in_blob
+    if @grid.down_cell
+      blob_count += BlobSolver.new @grid.down_grid, @grid.in_blob
+    else
+      blob = false
+
+
   
 end

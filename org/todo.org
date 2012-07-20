@@ -85,11 +85,11 @@ END:
    - State "DONE"       from "TODO"       [2012-06-02 Sat 14:18]
 ** plantings
 *** TODO plant beets
-    SCHEDULED: <2012-07-12 Thu>
+    SCHEDULED: <2012-07-19 Thu>
 *** TODO plant carrots
-    SCHEDULED: <2012-07-12 Thu>
+    SCHEDULED: <2012-07-19 Thu>
 *** TODO plant beans
-    SCHEDULED: <2012-07-12 Thu>
+    SCHEDULED: <2012-07-19 Thu>
 *** DONE check on beans
     CLOSED: [2012-07-08 Sun 13:43] SCHEDULED: <2012-07-07 Sat>
     - State "DONE"       from "TODO"       [2012-07-08 Sun 13:43]
@@ -117,8 +117,7 @@ END:
    - State "DONE"       from "TODO"       [2012-07-07 Sat 10:03]
    CLOCK: [2012-07-07 Sat 09:50]--[2012-07-07 Sat 10:03] =>  0:13
 ** TODO espalier pear tree
-   SCHEDULED: <2012-07-14 Sat>
-   CLOCK: [2012-07-14 Sat 13:30]
+   SCHEDULED: <2012-07-19 Thu>
 *** TODO dig holes
 *** TODO pour concrete with anchors
 *** TODO affix posts
@@ -159,8 +158,9 @@ END:
 *** DONE puchase terra cotta pot for rosemary
     CLOSED: [2012-07-08 Sun 19:51]
     - State "DONE"       from "TODO"       [2012-07-08 Sun 19:51]
-** TODO lubricate shed locks
-   SCHEDULED: <2012-07-13 Fri>
+** DONE lubricate shed locks
+   SCHEDULED: <2012-07-13 Fri> CLOSED: [2012-07-19 Thu 08:57]
+   - State "DONE"       from "TODO"       [2012-07-19 Thu 08:57]
 ** TODO hose protection stake for rhubarb
    SCHEDULED: <2012-07-17 Tue>
    CLOCK: [2012-07-09 Mon 08:23]--[2012-07-09 Mon 08:24] =>  0:01
@@ -470,7 +470,7 @@ END:
    :LAST_REPEAT: [2012-07-14 Sat 11:10]
    :END:
 ** TODO prune tomatoes
-   SCHEDULED: <2012-07-14 Sat .+3d>
+   SCHEDULED: <2012-07-19 Thu .+3d>
    - State "DONE"       from "TODO"       [2012-07-11 Wed 13:54]
    CLOCK: [2012-07-11 Wed 13:38]--[2012-07-11 Wed 13:54] =>  0:16
    - State "DONE"       from "TODO"       [2012-07-07 Sat 12:40]
@@ -532,8 +532,9 @@ END:
 
 ** TODO watering can style hose nosel					:GET:
    CLOCK: [2012-07-09 Mon 08:24]--[2012-07-09 Mon 08:25] =>  0:01
-** TODO shopping for rooms outlet cover
-   SCHEDULED: <2012-07-14 Sat>
+** DONE shopping for rooms outlet cover
+   SCHEDULED: <2012-07-14 Sat> CLOSED: [2012-07-19 Thu 08:57]
+   - State "DONE"       from "TODO"       [2012-07-19 Thu 08:57]
    CLOCK: [2012-07-13 Fri 18:14]--[2012-07-13 Fri 18:18] =>  0:04
 * Exercises
 ** TODO Biceps curls
