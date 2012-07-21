@@ -4,7 +4,10 @@
 ;;;
 (add-to-list 'load-path (expand-file-name "~/git/org"))
 (add-to-list 'auto-mode-alist '("\\.\\(org\\|org_archive\\|txt\\)$" . org-mode))
+
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/plugins/org-mode/lisp"))
 (require 'org-install)
+
 (setq org-log-done t)
 (setq org-agenda-files (quote("~/git/org/")))
 

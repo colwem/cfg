@@ -1,16 +1,31 @@
 ;; load path
 
-(add-to-list 'load-path "~/.emacs.d/src/rinari")
-(require 'rinari)
+;;(add-to-list 'load-path (concat dotfiles-dir "/plugins"))
 
+;;(add-to-list 'load-path "~/.emacs.d/plugins/rinari")
+;;(require 'rinari)
+
+;; (setq load-path (cons (expand-file-name "~/.emacs.d/plugins/rails-reloaded") load-path))
+;; (require 'rails-autoload)
+
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/plugins/emacs-rails"))
+(require 'rails)
+;;(require 'whitespace)
+(add-to-list 'load-path "~/.emacs.d/plugins/yasnippet")
+(require 'yasnippet)
+;;(yas/initialize)
+;;(yas/load-directory "~/.emacs.d/elpa/yasnippet-0.6.1/snippets")
+(yas/global-mode 1)
+
+;;(add-hook 'ruby-mode-hook 'whitespace-mode)
 ;;; rhtml-mode
-(add-to-list 'load-path "~/.emacs.d/src/rhtml")
-(require 'rhtml-mode)
-(add-hook 'rhtml-mode-hook
-     	  (lambda () (rinari-launch)))
+;;(add-to-list 'load-path "~/.emacs.d/src/rhtml")
+;;(require 'rhtml-mode)
+;; (add-hook 'rhtml-mode-hook
+;;      	  (lambda () (rinari-launch)))
 
-(require 'rvm)
-(rvm-use-default) ;; use rvm's default ruby for the current session
+;;(require 'rvm)
+;;(rvm-use-default) ;; use rvm's default ruby for the current session
 
 ;;;
 ;;; octave mode

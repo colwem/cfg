@@ -49,7 +49,7 @@ END:
    :PROPERTIES:
    :LAST_REPEAT: [2012-07-08 Sun 18:44]
    :END:
-
+   
 * Outside Projects
 ** TODO Street Side garden
 *** DONE Weeding front garden
@@ -57,16 +57,16 @@ END:
     - State "DONE"       from "TODO"       [2012-05-12 Sat 15:44]
    CLOCK: [2012-05-12 Sat 14:24]--[2012-05-12 Sat 15:44] =>  1:20
 *** TODO weed front garden
-    SCHEDULED: <2012-07-16 Mon>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO edge front garden
-    SCHEDULED: <2012-07-16 Mon>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO mulch front garden
 ** TODO Gorrila tape on the recycling container
-   SCHEDULED: <2012-07-17 Tue>
+   SCHEDULED: <2012-07-28 Sat>
 ** TODO Bicycle maintenance
-   SCHEDULED: <2012-07-18 Wed>
+   SCHEDULED: <2012-07-28 Sat>
 ** TODO Clean Garage
-   SCHEDULED: <2012-07-14 Mon .+3d>
+   SCHEDULED: <2012-07-22 Sun .+3d>
    - State "DONE"       from "TODO"       [2012-06-02 Sat 07:46]
 ** DONE spray paint the white outdoor tray with bronze
    CLOSED: [2012-05-13 Sun 15:34]
@@ -84,31 +84,34 @@ END:
    CLOSED: [2012-06-02 Sat 14:18]
    - State "DONE"       from "TODO"       [2012-06-02 Sat 14:18]
 ** plantings
-*** TODO plant beets
-    SCHEDULED: <2012-07-19 Thu>
-*** TODO plant carrots
-    SCHEDULED: <2012-07-19 Thu>
-*** TODO plant beans
-    SCHEDULED: <2012-07-19 Thu>
+*** DONE plant beets
+    SCHEDULED: <2012-07-19 Thu> CLOSED: [2012-07-21 Sat 00:16]
+    - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
+*** DONE plant carrots
+    SCHEDULED: <2012-07-19 Thu> CLOSED: [2012-07-21 Sat 00:16]
+    - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
+*** DONE plant beans
+    SCHEDULED: <2012-07-19 Thu> CLOSED: [2012-07-21 Sat 00:16]
+    - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
 *** DONE check on beans
     CLOSED: [2012-07-08 Sun 13:43] SCHEDULED: <2012-07-07 Sat>
     - State "DONE"       from "TODO"       [2012-07-08 Sun 13:43]
     CLOCK: [2012-07-08 Sun 13:07]--[2012-07-08 Sun 13:43] =>  0:36
 ** TODO compost pile
 *** TODO seperate debris
-    SCHEDULED: <2012-07-14 Sat>
+    SCHEDULED: <2012-07-21 Sat>
 *** TODO mow over debris
-    SCHEDULED: <2012-07-14 Sat>
+    SCHEDULED: <2012-07-21 Sat>
 *** TODO wood chopper debris
-    SCHEDULED: <2012-07-15 Sun>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO set up worms
-    SCHEDULED: <2012-07-15 Sun>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO make pile
-    SCHEDULED: <2012-07-15 Sun>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO empty composter
-    SCHEDULED: <2012-07-15 Sun>
+    SCHEDULED: <2012-07-28 Sat>
 *** TODO fill composter
-    SCHEDULED: <2012-07-15 Sun>
+    SCHEDULED: <2012-07-28 Sat>
 ** DONE tie up tomatoes
    CLOSED: [2012-07-07 Sat 09:45] SCHEDULED: <2012-07-07 Sat>
    - State "DONE"       from "TODO"       [2012-07-07 Sat 09:45]
@@ -117,9 +120,11 @@ END:
    - State "DONE"       from "TODO"       [2012-07-07 Sat 10:03]
    CLOCK: [2012-07-07 Sat 09:50]--[2012-07-07 Sat 10:03] =>  0:13
 ** TODO espalier pear tree
-   SCHEDULED: <2012-07-19 Thu>
+   SCHEDULED: <2012-07-21 Sat>
 *** TODO dig holes
+    SCHEDULED: <2012-07-21 Sat>
 *** TODO pour concrete with anchors
+    SCHEDULED: <2012-07-21 Sat>
 *** TODO affix posts
 *** TODO tie up posts
 *** TODO affix trees to wires
@@ -162,7 +167,7 @@ END:
    SCHEDULED: <2012-07-13 Fri> CLOSED: [2012-07-19 Thu 08:57]
    - State "DONE"       from "TODO"       [2012-07-19 Thu 08:57]
 ** TODO hose protection stake for rhubarb
-   SCHEDULED: <2012-07-17 Tue>
+   SCHEDULED: <2012-07-22 Sun>
    CLOCK: [2012-07-09 Mon 08:23]--[2012-07-09 Mon 08:24] =>  0:01
 ** TODO dry some herbs
    CLOCK: [2012-07-10 Tue 10:41]--[2012-07-10 Tue 10:41] =>  0:00
@@ -171,6 +176,7 @@ END:
 ** TODO kill lettuces
    CLOCK: [2012-07-10 Tue 11:04]--[2012-07-10 Tue 11:04] =>  0:00
 ** TODO spread lettuce
+   SCHEDULED: <2012-07-22 Sun>
    CLOCK: [2012-07-10 Tue 11:05]--[2012-07-10 Tue 11:05] =>  0:00
 ** TODO check  self watering container soils
    CLOCK: [2012-07-10 Tue 11:05]--[2012-07-10 Tue 11:05] =>  0:00
@@ -179,7 +185,7 @@ END:
    - State "DONE"       from "TODO"       [2012-07-10 Tue 17:08]
    CLOCK: [2012-07-10 Tue 11:17]--[2012-07-10 Tue 11:17] =>  0:00
 ** TODO identify backyard plants
-   SCHEDULED: <2012-07-14 Sat>
+   SCHEDULED: <2012-07-28 Sat>
    CLOCK: [2012-07-12 Thu 10:51]--[2012-07-12 Thu 12:03] =>  1:12
    CLOCK: [2012-07-12 Thu 00:13]--[2012-07-12 Thu 00:14] =>  0:01
 ** TODO multiple rain barrels connected at their base
@@ -190,6 +196,19 @@ END:
    CLOSED: [2012-07-12 Thu 10:50]
    - State "DONE"       from "TODO"       [2012-07-12 Thu 10:50]
    CLOCK: [2012-07-10 Tue 19:32]--[2012-07-10 Tue 19:32] =>  0:00
+** DONE tie up the rosa sharon
+   CLOSED: [2012-07-21 Sat 14:53] SCHEDULED: <2012-07-21 Sat>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 14:53]
+   CLOCK: [2012-07-21 Sat 12:44]--[2012-07-21 Sat 14:53] =>  2:09
+   CLOCK: [2012-07-21 Sat 12:44]--[2012-07-21 Sat 12:44] =>  0:00
+   CLOCK: [2012-07-21 Sat 12:40]--[2012-07-21 Sat 12:42] =>  0:02
+   CLOCK: [2012-07-21 Sat 12:11]--[2012-07-21 Sat 12:16] =>  0:05
+** TODO fix garage doors
+   CLOCK: [2012-07-13 Fri 09:21]--[2012-07-13 Fri 09:21] =>  0:00
+** TODO stone drain
+   CLOCK: [2012-07-13 Fri 09:21]--[2012-07-13 Fri 09:21] =>  0:00
+** TODO collect stones
+   CLOCK: [2012-07-13 Fri 09:21]--[2012-07-13 Fri 09:21] =>  0:00
 
 * Inside Projects
 ** TODO paint house
@@ -307,7 +326,7 @@ END:
 *** TODO bring up TV
 *** TODO look into radiator
 ** TODO Clean basement
-   SCHEDULED: <2012-07-16 Mon .+2d>
+   SCHEDULED: <2012-07-22 Sun .+2d>
    - State "DONE"       from "TODO"       [2012-05-27 Sun 14:34]
    - State "DONE"       from "TODO"       [2012-05-23 Wed 22:41]
    - State "DONE"       from "TODO"       [2012-05-23 Wed 17:09]
@@ -350,7 +369,7 @@ END:
 ** TODO finish basils christmas present
    SCHEDULED: <2012-07-26 Thu>
 ** TODO watch downton abby
-   SCHEDULED: <2012-07-15 Sun>
+   SCHEDULED: <2012-07-28 Sat>
 ** DONE call about pills
    CLOSED: [2012-05-30 Wed 18:38] SCHEDULED: <2012-05-30 Wed>
    - State "DONE"       from "TODO"       [2012-05-30 Wed 18:38]
@@ -362,7 +381,7 @@ END:
    
    [[file:~/org/habits.org::*Lunges][Lunges]]
 ** TODO sell bird cage
-   SCHEDULED: <2012-07-15 Sun>
+   SCHEDULED: <2012-07-28 Sat>
 ** CANCELED set up extension cords for great room
    CLOSED: [2012-07-12 Thu 12:09]
 ** DONE fix back door door handle
@@ -399,7 +418,7 @@ END:
    - State "DONE"       from "TODO"       [2012-07-12 Thu 12:09]
    CLOCK: [2012-07-10 Tue 10:42]--[2012-07-10 Tue 10:42] =>  0:00
 ** TODO set up org
-   SCHEDULED: <2012-07-13 Fri>
+   SCHEDULED: <2012-07-28 Sat>
 *** TODO set up capture and refile
     CLOCK: [2012-05-23 Wed 17:15]--[2012-05-23 Wed 18:01] =>  0:46
 *** DONE set up note taking system
@@ -407,7 +426,8 @@ END:
     - State "DONE"       from "TODO"       [2012-07-12 Thu 20:20]
 * Outside Chores
 ** TODO Put out trash
-   SCHEDULED: <2012-07-19 Thu +7d>
+   SCHEDULED: <2012-07-26 Thu +7d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
    - State "DONE"       from "TODO"       [2012-07-12 Thu 23:12]
    - State "DONE"       from "TODO"       [2012-07-06x Fri 08:28]
    - State "DONE"       from "TODO"       [2012-07-07 Sat 08:25]
@@ -418,14 +438,15 @@ END:
    - State "DONE"       from "TODO"       [2012-05-27 Sun 14:34]
    - State "DONE"       from "TODO"       [2012-05-18 Fri 01:21]
    :PROPERTIES:
-   :LAST_REPEAT: [2012-07-12 Thu 23:12]
+   :LAST_REPEAT: [2012-07-21 Sat 00:16]
    :END:
 ** TODO spray insecticidal soap
    SCHEDULED: <2012-07-09 Mon 18:00 .+3d>
    CLOCK: [2012-07-09 Mon 11:23]--[2012-07-09 Mon 11:31] =>  0:08
    CLOCK: [2012-07-07 Sat 09:11]--[2012-07-07 Sat 09:15] =>  0:04
 ** TODO water garden
-   SCHEDULED: <2012-07-14 Sat 08:00 .+1d>
+   SCHEDULED: <2012-07-22 Sun 08:00 .+1d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 12:22]
    - State "DONE"       from "TODO"       [2012-07-13 Fri 08:33]
    CLOCK: [2012-07-13 Fri 08:08]--[2012-07-13 Fri 08:33] =>  0:25
    - State "DONE"       from "TODO"       [2012-07-12 Thu 10:28]
@@ -446,10 +467,11 @@ END:
    - State "DONE"       from "TODO"       [2012-07-07 Sat 09:25]
    CLOCK: [2012-07-07 Sat 09:15]--[2012-07-07 Sat 09:25] =>  0:10
    :PROPERTIES:
-   :LAST_REPEAT: [2012-07-13 Fri 08:33]
+   :LAST_REPEAT: [2012-07-21 Sat 12:22]
    :END:
 ** TODO open pool
-   SCHEDULED: <2012-07-15 Sun 08:20 .+1d>
+   SCHEDULED: <2012-07-22 Sun 08:20 .+1d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 12:22]
    - State "DONE"       from "TODO"       [2012-07-14 Sat 11:10]
    CLOCK: [2012-07-14 Sat 11:04]--[2012-07-14 Sat 11:10] =>  0:06
    - State "DONE"       from "TODO"       [2012-07-13 Fri 08:36]
@@ -467,17 +489,18 @@ END:
    - State "DONE"       from "TODO"       [2012-07-07 Sat 09:50]
    CLOCK: [2012-07-07 Sat 09:45]--[2012-07-07 Sat 09:50] =>  0:05
    :PROPERTIES:
-   :LAST_REPEAT: [2012-07-14 Sat 11:10]
+   :LAST_REPEAT: [2012-07-21 Sat 12:22]
    :END:
 ** TODO prune tomatoes
-   SCHEDULED: <2012-07-19 Thu .+3d>
+   SCHEDULED: <2012-07-24 Tue .+3d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
    - State "DONE"       from "TODO"       [2012-07-11 Wed 13:54]
    CLOCK: [2012-07-11 Wed 13:38]--[2012-07-11 Wed 13:54] =>  0:16
    - State "DONE"       from "TODO"       [2012-07-07 Sat 12:40]
    - State "DONE"       from "TODO"       [2012-07-07 Sat 09:45]
    CLOCK: [2012-07-07 Sat 09:25]--[2012-07-07 Sat 09:45] =>  0:20
    :PROPERTIES:
-   :LAST_REPEAT: [2012-07-11 Wed 13:54]
+   :LAST_REPEAT: [2012-07-21 Sat 00:16]
    :END:
 ** TODO harvest what needs to be harvested
    SCHEDULED: <2012-07-15 Sun 08:30 .+1d>
@@ -520,6 +543,14 @@ END:
   
 * Inside Chores
 * Computer
+** DONE look up ruby toys or learning examples
+   CLOSED: [2012-07-21 Sat 12:16]
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 12:16]
+   CLOCK: [2012-07-15 Sun 15:12]--[2012-07-15 Sun 15:12] =>  0:00
+** TODO learn about Node.js
+   CLOCK: [2012-07-19 Thu 13:48]--[2012-07-19 Thu 13:48] =>  0:00
+** TODO create chrome plugin to organize tabs into problems, when a problem is solved the whole problem is archived and the solution is marked.  colors tell you when you opened it and whether you've visited the tab some other mark visually tells you what tabs belong to what group. groups can be joined or split so that solving does or does not archive the group some pages or tasks are exempted from problem structure
+   CLOCK: [2012-07-19 Thu 14:50]--[2012-07-19 Thu 14:53] =>  0:03
 * Health
 * Food
 ** TODO try dairy holiday
@@ -581,7 +612,8 @@ END:
    :LAST_REPEAT: [2012-07-07 Sat 08:27]
    :END:
 ** TODO Ab crunches
-   SCHEDULED: <2012-07-13 Fri .+4d/5d>
+   SCHEDULED: <2012-07-25 Wed .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
    - State "DONE"       from "TODO"       [2012-07-09 Mon 13:12]
    - State "DONE"       from "TODO"       [2012-07-05 Thu 08:25]
    - State "DONE"       from "TODO"       [2012-06-03 Sun 15:53]
@@ -592,7 +624,7 @@ END:
    - State "DONE"       from "TODO"       [2012-05-14 Mon 15:27]
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2012-07-09 Mon 13:12]
+   :LAST_REPEAT: [2012-07-21 Sat 00:16]
    :END:
 ** TODO Back raises
    SCHEDULED: <2012-07-09 Mon .+4d/5d>
@@ -607,15 +639,17 @@ END:
    :LAST_REPEAT: [2012-07-07 Sat 08:30]
    :END:
 ** TODO Calf raises
-   SCHEDULED: <2012-07-13 Fri .+4d/5d>
+   SCHEDULED: <2012-07-25 Wed .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:16]
    - State "DONE"       from "TODO"       [2012-07-09 Mon 13:12]
    - State "DONE"       from "TODO"       [2012-06-03 Sun 11:01]
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2012-07-09 Mon 13:12]
+   :LAST_REPEAT: [2012-07-21 Sat 00:16]
    :END:
 ** TODO Lunges
-   SCHEDULED: <2012-07-13 Fri .+4d/5d>
+   SCHEDULED: <2012-07-25 Wed .+4d/5d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:17]
    - State "DONE"       from "TODO"       [2012-07-09 Mon 13:12]
    CLOCK: [2012-07-09 Mon 11:35]--[2012-07-09 Mon 13:12] =>  1:37
    - State "DONE"       from "TODO"       [2012-06-03 Sun 15:53]
@@ -625,10 +659,11 @@ END:
    CLOCK: [2012-05-13 Sun 15:57]--[2012-05-13 Sun 17:27] =>  1:30
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2012-07-09 Mon 13:12]
+   :LAST_REPEAT: [2012-07-21 Sat 00:17]
    :END:
 ** TODO Walk
-   SCHEDULED: <2012-07-14 Sat .+3d/5d>
+   SCHEDULED: <2012-07-24 Tue .+3d/5d>
+   - State "DONE"       from "TODO"       [2012-07-21 Sat 00:17]
    - State "DONE"       from "TODO"       [2012-07-11 Wed 14:28]
    - State "DONE"       from "TODO"       [2012-07-06 Fri 08:32]
    - State "DONE"       from "TODO"       [2012-06-05 Tue 14:23]
@@ -646,7 +681,7 @@ END:
    CLOCK: [2012-05-13 Sun 15:57]--[2012-05-13 Sun 17:27] =>  1:30
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2012-07-11 Wed 14:28]
+   :LAST_REPEAT: [2012-07-21 Sat 00:17]
    :END:
 ** TODO Bike
    SCHEDULED: <2012-07-14 Sat .+2d/5d>
